@@ -1,0 +1,364 @@
+{
+  "SE": {
+      "name": "Seoul",
+      "capital": "Seoul",
+      "lat": "37.5665",
+      "long": "126.9780"
+  },
+  "BU": {
+      "name": "Busan",
+      "capital": "Busan",
+      "lat": "35.1796",
+      "long": "129.0756"
+  },
+  "IC": {
+      "name": "Incheon",
+      "capital": "Incheon",
+      "lat": "37.4563",
+      "long": "126.7052"
+  },
+  "DG": {
+      "name": "Daegu",
+      "capital": "Daegu",
+      "lat": "35.8714",
+      "long": "128.6014"
+  },
+  "DJ": {
+      "name": "Daejeon",
+      "capital": "Daejeon",
+      "lat": "36.3504",
+      "long": "127.3845"
+  },
+  "GJ": {
+      "name": "Gwangju",
+      "capital": "Gwangju",
+      "lat": "35.1595",
+      "long": "126.8526"
+  },
+  "UL": {
+      "name": "Ulsan",
+      "capital": "Ulsan",
+      "lat": "35.5384",
+      "long": "129.3114"
+  },
+  "SJ": {
+      "name": "Sejong",
+      "capital": "Sejong",
+      "lat": "36.4803",
+      "long": "127.2892"
+  },
+  "SU": {
+      "name": "Suwon",
+      "capital": "Suwon",
+      "lat": "37.2636",
+      "long": "127.0286"
+  },
+  "CW": {
+      "name": "Changwon",
+      "capital": "Changwon",
+      "lat": "35.2272",
+      "long": "128.6811"
+  },
+  "GO": {
+      "name": "Goyang",
+      "capital": "Goyang",
+      "lat": "37.6564",
+      "long": "126.8351"
+  },
+  "YI": {
+      "name": "Yongin",
+      "capital": "Yongin",
+      "lat": "37.2411",
+      "long": "127.1770"
+  },
+  "BC": {
+      "name": "Bucheon",
+      "capital": "Bucheon",
+      "lat": "37.4986",
+      "long": "126.7831"
+  },
+  "AN": {
+      "name": "Ansan",
+      "capital": "Ansan",
+      "lat": "37.3230",
+      "long": "126.8219"
+  },
+  "JJ": {
+      "name": "Jeonju",
+      "capital": "Jeonju",
+      "lat": "35.8242",
+      "long": "127.1480"
+  },
+  "CJ": {
+      "name": "Cheongju",
+      "capital": "Cheongju",
+      "lat": "36.6372",
+      "long": "127.4897"
+  },
+  "AY": {
+      "name": "Anyang",
+      "capital": "Anyang",
+      "lat": "37.3920",
+      "long": "126.9267"
+  },
+  "UJ": {
+      "name": "Uijeongbu",
+      "capital": "Uijeongbu",
+      "lat": "37.7411",
+      "long": "127.0474"
+  },
+  "CC": {
+      "name": "Chuncheon",
+      "capital": "Chuncheon",
+      "lat": "37.8747",
+      "long": "127.7341"
+  },
+  "GM": {
+      "name": "Gwangmyeong",
+      "capital": "Gwangmyeong",
+      "lat": "37.4788",
+      "long": "126.8660"
+  },
+  "GY": {
+    "name": "Gyeongju",
+    "capital": "Gyeongju",
+    "lat": "35.8562",
+    "long": "129.2242"
+},
+"JU": {
+    "name": "Jeju City",
+    "capital": "Jeju City",
+    "lat": "33.4890",
+    "long": "126.4983"
+},
+"GH": {
+    "name": "Gimhae",
+    "capital": "Gimhae",
+    "lat": "35.2286",
+    "long": "128.8812"
+},
+"SN": {
+    "name": "Seongnam",
+    "capital": "Seongnam",
+    "lat": "37.4395",
+    "long": "127.1376"
+},
+"HS": {
+    "name": "Hwaseong",
+    "capital": "Hwaseong",
+    "lat": "37.2066",
+    "long": "126.8167"
+},
+"SG": {
+    "name": "Suji-gu",
+    "capital": "Suji-gu",
+    "lat": "37.3474",
+    "long": "127.0265"
+},
+"PT": {
+    "name": "Pyeongtaek",
+    "capital": "Pyeongtaek",
+    "lat": "36.9941",
+    "long": "127.0888"
+},
+"GP": {
+    "name": "Gimpo",
+    "capital": "Gimpo",
+    "lat": "37.5594",
+    "long": "126.8016"
+},
+"MP": {
+    "name": "Mokpo",
+    "capital": "Mokpo",
+    "lat": "34.7931",
+    "long": "126.3912"
+},
+"PH": {
+    "name": "Pohang",
+    "capital": "Pohang",
+    "lat": "36.0190",
+    "long": "129.3715"
+},
+"JI": {
+    "name": "Jinju",
+    "capital": "Jinju",
+    "lat": "35.1928",
+    "long": "128.0847"
+},
+"JE": {
+  "name": "Jeongeup",
+  "capital": "Jeongeup",
+  "lat": "35.5715",
+  "long": "126.8546"
+},
+"GU": {
+  "name": "Guri",
+  "capital": "Guri",
+  "lat": "37.5985",
+  "long": "127.1391"
+},
+"OS": {
+  "name": "Osan",
+  "capital": "Osan",
+  "lat": "37.1499",
+  "long": "127.0771"
+},
+"NS": {
+  "name": "Nonsan",
+  "capital": "Nonsan",
+  "lat": "36.2062",
+  "long": "127.0841"
+},
+"SC": {
+  "name": "Suncheon",
+  "capital": "Suncheon",
+  "lat": "34.9506",
+  "long": "127.4870"
+},
+"YS": {
+  "name": "Yangsan",
+  "capital": "Yangsan",
+  "lat": "35.3387",
+  "long": "129.0267"
+},
+"GC": {
+  "name": "Gimcheon",
+  "capital": "Gimcheon",
+  "lat": "36.1216",
+  "long": "128.1195"
+},
+"GE": {
+  "name": "Geoje",
+  "capital": "Geoje",
+  "lat": "34.8772",
+  "long": "128.6215"
+},
+"AD": {
+  "name": "Andong",
+  "capital": "Andong",
+  "lat": "36.5686",
+  "long": "128.7294"
+},
+"YO": {
+  "name": "Yeosu",
+  "capital": "Yeosu",
+  "lat": "34.7604",
+  "long": "127.6622"
+},
+"GN": {
+  "name": "Gangneung",
+  "capital": "Gangneung",
+  "lat": "37.7519",
+  "long": "128.8761"
+},
+"GON": {
+  "name": "Gongju",
+  "capital": "Gongju",
+  "lat": "36.4448",
+  "long": "127.1248"
+},
+"MY": {
+  "name": "Miryang",
+  "capital": "Miryang",
+  "lat": "35.4936",
+  "long": "128.7508"
+},
+"HN": {
+  "name": "Hanam",
+  "capital": "Hanam",
+  "lat": "37.5405",
+  "long": "127.2056"
+},
+"CN": {
+  "name": "Cheonan",
+  "capital": "Cheonan",
+  "lat": "36.8149",
+  "long": "127.1572"
+},
+"WJ": {
+  "name": "Wonju",
+  "capital": "Wonju",
+  "lat": "37.3442",
+  "long": "127.9207"
+},
+"AS": {
+  "name": "Asan",
+  "capital": "Asan",
+  "lat": "36.7763",
+  "long": "127.0038"
+},
+"YJ": {
+  "name": "Yeongju",
+  "capital": "Yeongju",
+  "lat": "36.8270",
+  "long": "128.6250"
+},
+"NY": {
+  "name": "Namyangju",
+  "capital": "Namyangju",
+  "lat": "37.6369",
+  "long": "127.2164"
+},
+"ICH": {
+  "name": "Icheon",
+  "capital": "Icheon",
+  "lat": "37.2795",
+  "long": "127.4425"
+},
+"YC": {
+  "name": "Yeongcheon",
+  "capital": "Yeongcheon",
+  "lat": "35.9753",
+  "long": "128.9486"
+},
+"GUM": {
+  "name": "Gumi",
+  "capital": "Gumi",
+  "lat": "36.1216",
+  "long": "128.3361"
+},
+"SH": {
+  "name": "Siheung",
+  "capital": "Siheung",
+  "lat": "37.4475",
+  "long": "126.9005"
+},
+"HW": {
+  "name": "Hwacheon",
+  "capital": "Hwacheon",
+  "lat": "38.1065",
+  "long": "127.7064"
+},
+"PJ": {
+  "name": "Paju",
+  "capital": "Paju",
+  "lat": "37.8920",
+  "long": "126.7017"
+},
+"HOS": {
+  "name": "Hongseong",
+  "capital": "Hongseong",
+  "lat": "36.5983",
+  "long": "126.6684"
+},
+"GW": {
+  "name": "Gwacheon",
+  "capital": "Gwacheon",
+  "lat": "37.4274",
+  "long": "127.0702"
+},
+"GJ1": {
+  "name": "Gwangju",
+  "capital": "Gwangju",
+  "lat": "35.1710",
+  "long": "126.9110"
+},
+"GJ2": {
+  "name": "Gwangju",
+  "capital": "Gwangju",
+  "lat": "37.5547",
+  "long": "126.9346"
+}
+}
+
+
